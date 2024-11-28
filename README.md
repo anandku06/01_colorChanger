@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/color-changer.git
+    git clone https://github.com/anandku06/color-changer.git
     ```
 
 2. Navigate to the project folder:
