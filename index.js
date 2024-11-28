@@ -18,6 +18,9 @@ btns.forEach((btn) => {
             case 'yellow':
                 body.style.backgroundColor = e.target.id
                 break;
+            case 'purple':
+                body.style.backgroundColor = e.target.id
+                break;
             default:
                 body.style.backgroundColor = "black"            
         }
